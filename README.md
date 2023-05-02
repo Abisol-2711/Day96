@@ -1,4 +1,4 @@
-<h1 align="center">{My team page}</h1>
+<h1 align="center">My team page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://abisol-2711.github.io/Day96/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Abisol-2711/Day96">
       Solution
     </a>
     <span> | </span>
@@ -56,10 +56,8 @@ This application/site was created as a submission to a [DevChallenges](https://d
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
-- Linkedin [your-website.com](https://www.linkedin.com/in/sol-r%C3%A1zuri-fullstackdeveloper/)
-- GitHub [@your-username](https://github.com/Abisol-2711)
+- [Linkedin](https://www.linkedin.com/in/sol-r%C3%A1zuri-fullstackdeveloper/)
+- [GitHub](https://github.com/Abisol-2711)
